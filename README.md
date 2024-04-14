@@ -2556,7 +2556,7 @@ db.properties 文件：
 driverClass=com.mysql.cj.jdbc.Driver
 url=jdbc:mysql://localhost:3306/user&pwd?useSSL=false&serverTimezone=UTC&characterEncoding=UTF-8
 user=root
-password=cry020114
+password=123456
 ```
 
 **SQL 工具类：**
